@@ -20,6 +20,4 @@ Various Excel features were utilized for the analysis:
 
 The analysis results are visualized using pivot tables, charts, and other graphical representations. This helps to illustrate layoff trends, distribution of affected companies, and other key insights.
 
-https://imgur.com/a/Pul8Vhf
-
-<img src="https://imgur.com/a/Pul8Vhf">
+[![capture-20240209200456614.png](https://i.postimg.cc/R0L8ny55/capture-20240209200456614.png)](https://postimg.cc/JytKfTzP)
